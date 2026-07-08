@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Adam
 
-<!--
-**adam-sari/adam-sari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-minded AI & full-stack engineer in Toronto. I take products end-to-end — the idea, the pipelines, the payments, the pixels.
 
-Here are some ideas to get you started:
+**Now:** Product Engineer @ Kenchi.AI (AI floor-plan platform) · AI/ML Developer @ Exara
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured work**
+
+| Project | What it is |
+|---|---|
+| [feasible](https://github.com/adam-sari/feasible) | Constraint Intelligence Engine — operational plans solved with CP-SAT, independently verified with Z3, shipped with signed certificates. 17k lines in 4 days. |
+| [stock-tracker](https://github.com/adam-sari/stock-tracker) | Real-time market intelligence — 20+ data feeds, composite ranking engine, local-first. 24k lines in 16 days. |
+
+**Stack:** TypeScript / React / Next.js · Python / FastAPI · Postgres / Supabase · Playwright · LLM pipelines
+
+I build AI-native — agents are a first-class part of how I ship — and I keep the speed honest with property-based tests and formal verification.
+
+📍 Toronto · [LinkedIn](https://www.linkedin.com/in/adamsari/) · adamsari20005@gmail.com
