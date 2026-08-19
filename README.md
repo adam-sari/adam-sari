@@ -1,6 +1,6 @@
 ### Hey, I'm Adam
 
-Product-minded AI & full-stack engineer in Toronto. I take products end-to-end — the idea, the pipelines, the payments, the pixels.
+Product-minded AI & full-stack engineer in Toronto. I take products end-to-end.
 
 **Now:** Product Engineer @ Kenchi.AI (AI floor-plan platform) · AI/ML Developer @ Exara
 
@@ -12,7 +12,5 @@ Product-minded AI & full-stack engineer in Toronto. I take products end-to-end �
 | [stock-tracker](https://github.com/adam-sari/stock-tracker) | Real-time market intelligence — 20+ data feeds, composite ranking engine, local-first. 24k lines in 16 days. |
 
 **Stack:** TypeScript / React / Next.js · Python / FastAPI · Postgres / Supabase · Playwright · LLM pipelines
-
-I build AI-native — agents are a first-class part of how I ship — and I keep the speed honest with property-based tests and formal verification.
 
 📍 Toronto · [LinkedIn](https://www.linkedin.com/in/adamsari/) · adamsari20005@gmail.com
