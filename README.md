@@ -1,6 +1,6 @@
 ## Adam Sari
 
-**I turn business problems into working AI-built systems: discovery, solution design, delivery.**
+**I turn business problems into working AI-powered systems: discovery, solution design, delivery.**
 
 London, Ontario · Canadian permanent resident · open to relocation
 
