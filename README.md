@@ -2,7 +2,7 @@
 
 **I turn business problems into working AI-built systems: discovery, solution design, delivery.**
 
-London, Ontario · Canadian PR · open to relocation
+London, Ontario · Canadian permanent resident · open to relocation
 
 - **Exara** · Founder/CTO (Jul 2025 to present). A three-person AI studio in Dubai ([exara.ae](https://exara.ae)) building products and client systems.
 - **Kenchi.AI** · Product Engineer, AI Platforms (Dec 2025 to Sep 2026). 3D massing editor with image-to-3D refinement, floor-plan editing with DXF import/export, and the Stripe + Supabase subscriptions behind the paid rollout.
@@ -11,7 +11,7 @@ London, Ontario · Canadian PR · open to relocation
 
 #### [smart-now.ca](https://smart-now.ca) · website for a smart-home and networking installer in London, ON
 
-**Problem:** Wi-Fi coverage, security and automation are hard to picture before an installer visits, so homeowners struggle to judge what they need.
+**Problem:** Wi-Fi coverage, security and automation are hard to picture before an installer visits, so homeowners and businesses struggle to judge what they need.
 
 **What I designed:** a site that shows the product instead of describing it, then turns interest into a consultation request.
 
