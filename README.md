@@ -44,7 +44,7 @@ Turned an ops team's sell-through rules, warehouse limits and redistribution log
 | Project | What it does |
 |---|---|
 | [feasible](https://github.com/adam-sari/feasible) | Turns written operating rules into constraints, solves them with OR-Tools CP-SAT, verifies the result independently with Z3, and issues signed certificates. |
-| [stock-tracker](https://github.com/adam-sari/stock-tracker) | Local-first market-intelligence app: 20+ signal sources (SEC EDGAR, insider and congressional trades) feeding a composite score. Next.js + SQLite, 271 tests. |
+| [stock-tracker](https://github.com/adam-sari/stock-tracker) | Local-first market-intelligence app: 20+ signal sources (SEC EDGAR, insider and congressional trades) feeding a composite score. Next.js + SQLite, about 850 tests (Vitest + pytest) in CI. |
 
 ### How I work
 
