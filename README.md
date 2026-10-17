@@ -11,9 +11,9 @@ London, Ontario · Canadian PR · open to relocation
 
 #### [smart-now.ca](https://smart-now.ca) · website for a smart-home and networking installer in London, ON
 
-**Problem:** Wi-Fi coverage, security and automation are hard to picture before someone visits your home, so customers struggle to judge what they need.
+**Problem:** Wi-Fi coverage, security and automation are hard to picture before an installer visits, so homeowners struggle to judge what they need.
 
-**What I designed:** a site that shows the product instead of describing it, then turns interest into a qualified consultation request.
+**What I designed:** a site that shows the product instead of describing it, then turns interest into a consultation request.
 
 - Interactive three.js model of a home and a business, with scenes for lighting, security, Wi-Fi and energy
 - Multi-wall Wi-Fi coverage simulator: router-only versus a designed access-point layout
@@ -49,9 +49,8 @@ Turned an ops team's sell-through rules, warehouse limits and redistribution log
 ### How I work
 
 1. **Discovery first.** Sit with the people doing the work and write down the rules they actually use.
-2. **Written specs.** Agree on a spec before building. For one client that meant a 115-page blueprint for an Amazon-to-Zoho reconciliation system.
+2. **Written specs.** Agree on a spec before building. For example, a 115-page implementation blueprint for an Amazon-to-Zoho reconciliation system.
 3. **Verification gates.** Deterministic logic where correctness matters, LLMs where language helps, and tests or evaluations that fail the build.
-4. **Honest claims.** Say what is live, what is a demo, and what is still in progress.
 
 **Stack:** TypeScript, React, Next.js, Astro · Python · Postgres, Supabase, PostGIS · SwiftUI · OR-Tools, Z3 · Gemini API
 
