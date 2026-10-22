@@ -2,6 +2,8 @@
 
 **I turn business problems into working AI-powered systems: discovery, solution design, delivery.**
 
+Portfolio: **[adamsari.com](https://adamsari.com)**
+
 London, Ontario · Canadian permanent resident · open to relocation
 
 - **Exara** · Founder/CTO (Jul 2025 to present). A three-person AI studio in Dubai ([exara.ae](https://exara.ae)) building products and client systems.
