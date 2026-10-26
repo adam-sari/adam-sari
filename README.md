@@ -21,7 +21,7 @@ London, Ontario · Canadian permanent resident · open to relocation
 - Multi-wall Wi-Fi coverage simulator: router-only versus a designed access-point layout
 - Plan builder that turns property size, floors and priorities into access-point, Cat6 and PoE counts
 - Lead capture into the client's Wix backend; technical SEO (JSON-LD, sitemap, canonical URLs)
-- 3D bundle cut from about 2 MB to about 170 KB gzipped
+- 3D code cut from about 2 MB to about 640 KB (170 KB gzipped), loaded on demand
 
 <p>
   <img src="assets/smart-now-desktop.png" alt="smart-now.ca hero with the interactive 3D home" width="64%">
