@@ -21,7 +21,7 @@ London, Ontario · Canadian permanent resident · open to relocation
 - Multi-wall Wi-Fi coverage simulator: router-only versus a designed access-point layout
 - Plan builder that turns property size, floors and priorities into access-point, Cat6 and PoE counts
 - Lead capture into the client's Wix backend; technical SEO (JSON-LD, sitemap, canonical URLs)
-- 3D bundle cut from about 2 MB to 155 KB gzipped
+- 3D bundle cut from about 2 MB to about 170 KB gzipped
 
 <p>
   <img src="assets/smart-now-desktop.png" alt="smart-now.ca hero with the interactive 3D home" width="64%">
@@ -35,7 +35,7 @@ Drivers post a service request and get quotes from garages. Live, built with a t
 
 #### Used-car diagnostics · pre-purchase risk reports
 
-A deterministic rule engine (101 rules, 147 test fixtures) makes the diagnosis; the LLM (Gemini) only writes the explanation. CI gates include `mypy --strict` and an accuracy evaluation. Private repo, demo on request.
+A deterministic rule engine (101 rules, 146 test fixtures) makes the diagnosis; the LLM (Gemini) only writes the explanation. CI gates include `mypy --strict` and an accuracy evaluation. Private repo, demo on request.
 
 #### Retail refill tool (Exara client)
 
