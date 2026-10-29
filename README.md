@@ -29,6 +29,10 @@ London, Ontario · Canadian permanent resident · open to relocation
 </p>
 <img src="assets/smart-now-wifi-map.png" alt="Wi-Fi coverage simulator on smart-now.ca" width="64%">
 
+#### [roundertools.com](https://roundertools.com) · free file and AI tools that run in the browser ([source](https://github.com/adam-sari/rounder))
+
+144 tools, from compressing a PDF to removing a background, that run on the visitor's device, so files are never uploaded. The 18 AI tools run on WebGPU with a WASM fallback. The same engines ship on npm as an SDK, a CLI and an MCP server ([`@roundertools/mcp`](https://www.npmjs.com/package/@roundertools/mcp), listed in the official MCP Registry) that make no network requests. 2,379 unit tests and 1,295 browser tests; CI on Linux, Windows and macOS. Launched Oct 2026.
+
 #### [pitrush.ae](https://pitrush.ae) · car-service RFQ marketplace (UAE)
 
 Drivers post a service request and get quotes from garages. Live, built with a teammate at Exara.
@@ -54,7 +58,7 @@ Turned an ops team's sell-through rules, warehouse limits and redistribution log
 2. **Written specs.** Agree on a spec before building. For example, a 115-page implementation blueprint for an Amazon-to-Zoho reconciliation system.
 3. **Verification gates.** Deterministic logic where correctness matters, LLMs where language helps, and tests or evaluations that fail the build.
 
-**Stack:** TypeScript, React, Next.js, Astro · Python · Postgres, Supabase, PostGIS · SwiftUI · OR-Tools, Z3 · Gemini API
+**Stack:** TypeScript, React, Next.js, Astro, Svelte · WebGPU, WebAssembly · MCP · Python · Postgres, Supabase, PostGIS · SwiftUI · OR-Tools, Z3 · Gemini API
 
 B.Sc. Artificial Intelligence and Computer Science, University of Birmingham (2025) · OCI Generative AI Professional (2025) · English and Arabic
 
